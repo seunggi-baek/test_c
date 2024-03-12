@@ -1,0 +1,3 @@
+﻿  exam06.c
+C:\C_Workspace_20231120\Csolution\CProject7\exam06.c(7,7): warning C4101: 'ary' :참조되지 않은 지역 변수입니다.
+  CProject7.vcxproj -> C:\C_Workspace_20231120\Csolution\x64\Debug\CProject7.exe
